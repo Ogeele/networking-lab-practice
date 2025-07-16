@@ -2,7 +2,7 @@
 
 This repository contains my personal hands-on practice and simulations in computer networking. These labs were done using tools like Cisco Packet Tracer, VirtualBox, and Wireshark as part of my transition into the IT and cybersecurity space.
 
-## 🔧 What I Practiced
+# What I Practiced
 
 - IP Addressing and Subnetting
 - Basic and Extended VLAN configuration
@@ -14,7 +14,7 @@ This repository contains my personal hands-on practice and simulations in comput
 - Packet capture using Wireshark
 - Virtual machines (Kali Linux & FortiGate firewall on VirtualBox)
 
-## 🧪 Tools Used
+# Tools Used
 
 - Cisco Packet Tracer
 - VirtualBox
@@ -23,7 +23,7 @@ This repository contains my personal hands-on practice and simulations in comput
 - Windows 10
 - CMD and Linux terminal
 
-## 📂 File Overview
+# File Overview
 
 | File/Folder | Description |
 |-------------|-------------|
@@ -33,18 +33,19 @@ This repository contains my personal hands-on practice and simulations in comput
 | `screenshots/` | Screenshots from lab simulations |
 | `network-diagrams/` | Diagrams of topologies used |
 
-## 🚀 What’s Next
+# What’s Next
 
 - Set up inter-VLAN routing with router-on-a-stick
 - Add more complex simulations with multiple subnets
 - Configure basic firewall rules using FortiGate
 - Study dynamic routing protocols (EIGRP, BGP)
 
-## 📘 About Me
+# About Me
 
 I’m currently studying to become a certified cybersecurity professional. This repository is part of my journey to develop a strong foundation in networking — preparing for certifications like CompTIA Security+ and real-world jobs in network/system support.
 
 ---
 
 **🔗 Let's connect**  
-[LinkedIn](#) | [Email](mailto:ogeeleope8@gmail.com)
+[LinkedIn](linkedin.com/in/opeyemi-ogeele
+) | [Email](mailto:ogeeleope8@gmail.com)
